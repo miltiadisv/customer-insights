@@ -1,5 +1,5 @@
 ---
-title: "Preview: Customer Insights - Journeys effectiveness analytics"
+title: "Preview: Marketing effectiveness analytics"
 description: Learn how to create personalized experiences with marketing effectiveness analytics in Dynamics 365 Customer Insights - Journeys.
 ms.date: 08/22/2023
 ms.topic: article
